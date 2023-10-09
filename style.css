@@ -38,6 +38,7 @@ menu{
     color: black;
     font-weight: 500;
     z-index: 200;
+    text-transform: uppercase;
 }
 
 .Navbar ul{
@@ -54,7 +55,6 @@ menu{
     cursor: pointer;
     color: black;
     font-weight: 500;
-    text-transform: uppercase;
     letter-spacing: 0.3px;
     font-size: 14px;
 
