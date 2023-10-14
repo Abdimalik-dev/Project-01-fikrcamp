@@ -13,9 +13,7 @@ menu{
     background-image: url(images/img15.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 95vh;
-
-    
+    height: 88vh;
 
 }
 
@@ -74,7 +72,7 @@ menu{
 /* ############## SECTION 1  ################*/
 .Section-1{
     font-family: "Poppins", sans-serif;
-    margin-bottom: 10em;
+    margin-bottom: 5em;
    
   
 }
@@ -438,7 +436,7 @@ menu{
 
 @media  (max-width:600px) {
     menu{
-        height: 40%;
+        height: 45%;
     }
     .Section-1{
         font-size: 50%;
