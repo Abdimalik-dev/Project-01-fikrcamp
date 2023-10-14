@@ -13,11 +13,10 @@ menu{
     background-image: url(images/img15.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 30%;
+    height: 95vh;
 
     
-    
-    
+
 }
 
 
@@ -74,9 +73,9 @@ menu{
 
 /* ############## SECTION 1  ################*/
 .Section-1{
-    height: 100vh;
     font-family: "Poppins", sans-serif;
-
+    margin-bottom: 10em;
+   
   
 }
 
@@ -93,12 +92,13 @@ menu{
 .sect1-sub1{
     font-size: 27px;
     color: rgb(0, 11, 168);
+
     
 }
 .sect1-sub2{
     color: black;
-    font-size: 30px;
     line-break: 1;
+    font-size: 27px;
     font-weight: 600;
     align-items: end;
     padding-top: 20px;
@@ -437,6 +437,12 @@ menu{
 
 
 @media  (max-width:600px) {
+    menu{
+        height: 40%;
+    }
+    .Section-1{
+        font-size: 50%;
+    }
     .sect1-sub2 p {
         font-size: 3.3vmax;
     }
