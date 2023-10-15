@@ -89,7 +89,7 @@ menu{
 
 .sect1-sub1{
     font-size: 27px;
-    color: rgb(0, 11, 168);
+    color: rgb(0, 11, 168, 0.664);
 
     
 }
@@ -109,18 +109,17 @@ menu{
     padding: 3px;
 }
 
-.Sect-btn button{
-    background-color: black;
+.Sect-btn button {
+    background-color: rgba(0, 11, 168, 0.664);
     font-size: 15px;
     color: white;
-    font-weight: 500;
-    border-radius: 8px;
+    border-radius: 6px;
     padding: 3px;
-    width:6em;
+    width:5em;
     font-family: "Poppins";
     cursor: pointer;
     letter-spacing: 1px;
-
+    text-decoration: none;
     
 }/* End of Section 1 */
 
