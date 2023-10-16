@@ -220,14 +220,16 @@ menu{
 }
 
 .card1-btn button{
-    padding: 4px;
+    padding: 2px;
     font-family: "Poppins", sans-serif;
     background-color: black;
     color: white;
-    border-radius: 0.9em;
-    width: 5em;
+    border-radius: 4px;
+    width: 4.4em;
     cursor: pointer;
     margin-bottom: 1em;
+    font-size: 14px;
+    letter-spacing: 1px;
     
 
 }
@@ -357,9 +359,10 @@ menu{
     font-family: "Poppins", sans-serif;
     background-color: black;
     color: white;
-    border-radius: 2em;
+    border-radius: 4px;
     width: 6em;
     cursor: pointer;
+    
 
 }
 
