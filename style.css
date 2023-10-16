@@ -285,6 +285,7 @@ menu{
 } 
 
 .Sect3-btn{
+    margin: 6px;
     padding: 4px;
     font-family: "Poppins", sans-serif;
     background-color: black;
