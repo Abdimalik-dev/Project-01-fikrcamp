@@ -242,7 +242,8 @@ menu{
 /* ######### Section 3 ######## */
 .Section-3{
     padding: 20px;
-    margin: 4em;
+    margin-top: 4em;
+    margin-bottom: 2em;
 
 
 
@@ -251,7 +252,7 @@ menu{
 .Sect3-Service{
     background-color:whitesmoke;
     width: 12em;
-    height: 14.3em;
+    height: 100%;
     padding: 12px;
     border-radius: 0.5em;
     margin-bottom: 2px;
@@ -285,14 +286,15 @@ menu{
     padding: 3px;
 } 
 
-.Sect3-btn{
-    margin: 6px;
+.Sect3-btn {
+    margin-top: 1em;
+    margin-bottom: 1em;
     padding: 4px;
     font-family: "Poppins", sans-serif;
     background-color: black;
     color: white;
-    border-radius: 0.9em;
-    width: 5em;
+    border-radius: 0.4em;
+    width: 4.4em;
     cursor: pointer;
 }/* ##########  End of section 3 ######### */
 
